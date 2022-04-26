@@ -4,6 +4,12 @@ Code, data and other supporting material for the series of online courses develo
 
 For more information see <...>
 
-Units online to date include:
+Units online and upcoming include:
 
 * Introduction to plant phenotyping for plant phenotyping
+
+* Coding for Robotics and Data Capture *(expected Summer 2022)*
+
+* Machine Learning for Image Data *(expected Summer/Autumn 2022)*
+
+* Introduction to robotics for bioscientists *(expected Summer 2022)*
