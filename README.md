@@ -6,10 +6,12 @@ For more Information visit <https://www.nottingham.ac.uk/research/groups/cvl/pro
 
 Units online and upcoming include:
 
-* Introduction to plant phenotyping for plant phenotyping
+* Introduction to image analysis for plant phenotyping
 
-* Coding for Robotics and Data Capture *(expected Summer 2022)*
+* Introduction to plant phenotyping technologies
 
-* Machine Learning for Image Data *(expected Summer/Autumn 2022)*
+* Coding for Robotics and Data Capture *(expected Spring 2023)*
 
-* Introduction to robotics for bioscientists *(expected Summer 2022)*
+* Machine Learning for Image Data *(expected Spring 2023)*
+
+* Introduction to robotics for bioscientists *(expected Spring 2023)*
