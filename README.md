@@ -19,3 +19,8 @@ Units online and upcoming include:
 * Deep learning for bioscientists *(expected early 2024)*
 
 * Experimental design for machine learning *(expected early 2024)*
+
+
+All courses are available for FREE and in full. We have over 900 enrolments to date.
+
+More to follow...
