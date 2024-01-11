@@ -2,8 +2,6 @@
 
 Code, data and other supporting material for the series of online courses developed for the DataCampp project offering training in **Data** **C**apture, **A**nalysis and **M**anagement for **P**lant **P**henotyping, aimed at bioscientists.
 
-For more Information visit <https://www.nottingham.ac.uk/research/groups/cvl/projects/data-cammp/data-cammp.aspx>
-
 Units online and upcoming include:
 
 * [Introduction to image analysis for plant phenotyping](https://www.futurelearn.com/courses/introduction-to-image-analysis-for-plant-phenotyping/1)
